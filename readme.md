@@ -7,3 +7,9 @@ Escribir sobre nosotros ...
 ## Contact me
 
 Hacer el cierre de la presentacion, invitando a contactar ...
+
+## technologies
+
+- HTML
+- CSS
+- JS
