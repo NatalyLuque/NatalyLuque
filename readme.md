@@ -14,3 +14,8 @@ Hacer el cierre de la presentacion, invitando a contactar ...
 - CSS
 - JS
 
+## languages
+
+- spanish
+- english
+- portuguese
