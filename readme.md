@@ -10,15 +10,7 @@ Hacer el cierre de la presentacion, invitando a contactar ...
 
 ## technologies
 
--HTML
--CSS
--JS
-
-## skills
-
--coaching
-
-## hobbies
-
-- Dancing
+- HTML
+- CSS
+- JS
 
