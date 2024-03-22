@@ -8,8 +8,14 @@ Escribir sobre nosotros ...
 
 Hacer el cierre de la presentacion, invitando a contactar ...
 
+## technologies
+
+- HTML
+- CSS
+- JS
+
 ## languages
 
-- english
-- korea
 - spanish
+- english
+- portuguese
